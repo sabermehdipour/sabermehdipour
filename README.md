@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 About Me
 
-<!--
-**sabermehdipour/sabermehdipour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master's student in Software Engineering at the University of Guilan (Rasht, Iran), with a strong focus on Artificial Intelligence and Computer Vision. I'm passionate about developing intelligent systems that can interpret and understand visual data. I enjoy exploring deep learning techniques and applying them to real-world problems.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 How to Reach Me
+
+- 📧 Email: sabermehdipour@webmail.guilan.ac.ir
+- 💼 LinkedIn: [linkedin.com/in/sabermehdipour](https://linkedin.com/in/sabermehdipour)  
+- 📝 Google Scholar: [Saber Mehdipour](https://scholar.google.com/citations?user=Zvc_wJwAAAAJ&hl=en&oi=ao) 
+
+---
+
