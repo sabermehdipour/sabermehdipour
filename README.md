@@ -7,7 +7,7 @@ I'm a Master's student in Software Engineering at the University of Guilan (Rash
 
 ### 📫 How to Reach Me
 
-- 📧 Email: sabermehdipour@webmail.guilan.ac.ir
+- 📧 Email: sabermehdipour [at] webmail [dot] guilan [dot] ac [dot] ir
 - 💼 LinkedIn: [linkedin.com/in/sabermehdipour](https://linkedin.com/in/sabermehdipour)  
 - 📝 Google Scholar: [Saber Mehdipour](https://scholar.google.com/citations?user=Zvc_wJwAAAAJ&hl=en) 
 
